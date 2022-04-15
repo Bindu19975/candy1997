@@ -1,2 +1,2 @@
 # candy1997
-this is my thrid repository
+this is my third repository
